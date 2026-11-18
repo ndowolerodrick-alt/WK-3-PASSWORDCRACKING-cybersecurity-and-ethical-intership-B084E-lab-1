@@ -1,10 +1,23 @@
 # WK-3-PASSWORDCRACKING-cybersecurity-and-ethical-intership-B084E-lab-1
-PASSWORD CRACKING
-IN THIS LAB 1 WEEK 3 I WAS ABLE TO CRACK THE PASSWORD OF THE ASSIGNED PDF FILE 
-IN THIS MODULE THE TOOLS USED ;
-JOHNNY, ONLINE HASHCRACK WORK SPACE , NOTE PAD .
-IN THIS MODULE I DOWNLOADED JOHNNY THE RIPPER BOTH THE GUI AND CLI AND WAS ABLE TO SET UP THE GUI BY ADDING THE CLI ,
-IN THE SAME MODULE I USED THE ONLINE HASH CRACK WORKSPACE SINCE PASSWORDS ARE INCRIPTED IN HASH I USED IT WHERE BY I WAS ABLE TO UPLOAD THE LOCKED FILE THEN THE WAS ABLE TO GET THE HASH FILE OF THE PDF FILE THAT WAS LOCKED 
-I USED NOT PAD FOR SAVING THE HASH THAT I COPPIED FROM THE OHC (ONLINE HASH CRACK ) .
-WHICH LATER I THEN UPLOADED TO JOHNNY THEN LAUNCHED THE ATTACK AND I WAS ABLE OT GET THE PASSWORD AND OPENED THE PDF 
-I HAVE ATTACHED IT AS "MY CRACKED PDF-1" FOR PROOF CHECK IT OUT .
+Week 3 of my Cybersecurity & Ethical Hacking Internship: Password Cracking 🔐
+
+This week’s lab was all about understanding how passwords are stored, and how weak ones can be broken, so we can learn to defend against it.
+
+The task: Recover the password of an assigned, locked PDF file in a controlled lab environment.
+
+Tools I used:
+🔹 John the Ripper (GUI + CLI)
+🔹 Online Hash Crack workspace
+🔹 Notepad
+
+How I did it:
+1️⃣ Installed John the Ripper (both GUI and CLI) and set up the GUI by linking it to the CLI.
+2️⃣ Uploaded the locked PDF to Online Hash Crack and extracted its password hash, since passwords aren’t stored as plain text but as hashes.
+3️⃣ Copied the hash into Notepad and saved it as a file.
+4️⃣ Loaded the hash file into John the Ripper and launched the attack.
+5️⃣ Cracked the password and successfully opened the PDF ✅
+
+Key takeaway: Hashing alone doesn’t make a password safe. If the password is weak or common, tools like John the Ripper can crack it quickly. Strong, long, unique passwords and multi-factor authentication matter a lot.
+
+This was done strictly as part of an authorized training exercise. Cracking passwords without permission is illegal and unethical.
+
